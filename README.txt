@@ -24,4 +24,4 @@ http://www.pygame.org/download.shtml
 
 --->This game created for the HCI project 2014-15 Ionian University
 
-Leisos Vasileios - Erginousakis Alexandros
+Leisos Vasileios 
